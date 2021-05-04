@@ -1,0 +1,16 @@
+name: cafe-loops-widgets
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab=3
+  - sidecar
+  - ipycanvas
+  - bqplot
+  - ipyvolume
+  - ipyleaflet
+  - ipycytoscape
+  - branca
+  - ipympl
+  - voila
+  - pip:
+    - voila-material
